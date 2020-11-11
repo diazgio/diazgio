@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with creating a youtube channel
 - 💬 Ask me about anything
 - 📫 How to reach me:<br> 
-[<img align="left" alt="diazgio | LinkedIn" width="22px" src="https://www.linkedin.com/in/giordano-diaz/" />][linkedin]<br>
+[<img align="left" alt="diazgio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=diazgio.visitor-badge)
 
 
 

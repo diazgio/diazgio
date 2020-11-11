@@ -8,9 +8,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Rails projects
 - 🤔 I’m looking for help with creating a youtube channel
 - 💬 Ask me about anything
-- 📫 How to reach me:<br> 
-[<img align="left" alt="diazgio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=diazgio.visitor-badge)
+- 📫 How to reach me:<br>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="diazgio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diazgio.visitor-badge)<br>
+
 
 
 
@@ -29,5 +30,5 @@ Here are some ideas to get you started:
 <img align="left" alt="diazgio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diazgio&show_icons=true&hide_border=true" />
 
 
-[linkedin]: https://www.linkedin.com/in/sanad-abujubara/
-[website]: https://github.com/sanadwj
+[linkedin]: https://www.linkedin.com/in/giordano-diaz/
+[website]: https://github.com/diazgio

@@ -1,14 +1,13 @@
-### Hi there I am Giordano Díaz👋 👋
+### Hi there! I am Giordano Díaz👋 👋
 
 ## About me
 
-Here are some ideas to get you started:
 - :octocat: I'm used to working with git flow
-- 🌱 I’m currently learning To be a full stack developer
+- 🌱 I’m currently learning to be a full stack developer
 - 👯 I’m looking to collaborate on Rails projects
-- 🤔 I’m looking for help with creating a youtube channel
+- 🤔 I’m looking for help with creating a Youtube channel
 - 💬 Ask me about anything
-- 📫 How to reach me:<br>
+- 📫 How to reach me:<br><br>
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="left" alt="diazgio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diazgio.visitor-badge)<br>
 
